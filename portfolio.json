@@ -1,0 +1,294 @@
+{
+  "profile":
+  [{
+      "Aboutme": {
+              "image":"https://static.pexels.com/photos/479/landscape-nature-sunset-trees.jpg",
+              "name":{
+                "displayname":"Name",
+                "value":"Uma_pk"
+              },
+              "designation":{
+                "displayname":"Designation",
+                "value":"Software Engineer"
+              },
+              "organization":{
+                "displayname":"Organization",
+                "value":"Cognizant"
+              },
+              "currentlocation":{
+                "displayname":"Current-Location",
+                "value":"Chennai"
+              },
+              "sex":{
+                "displayname":"Gender",
+                "value":"Female"
+              },
+              "age":{
+                "displayname":"Age",
+                "value":"22"
+              },
+              "dateofbirth":{
+                "displayname":"Date Of Birth",
+                "value":"08/07/1995"
+              },
+          "summary":{
+              "snapshot":{
+                "displayname":"Snapshot",
+                "value":"Text"
+              }
+            },
+          "contactinformation":{
+              "email":{
+                "displayname":"E-mail Address",
+                "value":["umapk@gmail.com",
+                          "uma@cognizant.com"]
+              },
+              "phones":{
+                "displayname":"Phone Number",
+                "value":["9876543210",
+                         "9655814767"]
+              },
+              "address":[{
+                "displayname":"Permanent Address",
+                "value":"123/kuppusamy street, madurai-15."
+              },
+              {
+                "displayname":"Current Address",
+                "value":"3/2/49A,shollinganalur,chennai"
+              }],
+              "linkedin":{
+                "displayname":"Linked In",
+                "value":"www.linkedin.com"
+              },
+              "facebook":{
+                "displayname":"Facebook",
+                "value":"www.facebook.com"
+              },
+              "github":{
+                "displayname":"GitHub",
+                "value":"www.github.com"
+              }
+          },
+          "other_personal_data":{
+              "bloodgroup":{
+                "displayname":"Blood Group",
+                "value":"o+ve"
+              },
+              "maritalstatus":{
+                "displayname":"Marital Status",
+                "value":"Single"
+              },
+              "nationality":{
+                "displayname":"Nationality",
+                "value":"Indian"
+              }
+          }
+      },
+      "Location":{
+          "current":{
+              "place":{
+                "displayname":"Current Place",
+                "value":"Chennai"
+              },
+              "country":{
+                "displayname":"Country",
+                "value":"India"
+              },
+              "from_when":{
+                "displayname":"From When",
+                "value":"08/07/2010"
+              },
+              "activity":{
+                "displayname":"Activity",
+                "value":"Work"
+              }
+          },
+          "past":{
+            "place":{
+              "displayname":"Past Place",
+              "value":"Madurai"
+            },
+            "country":{
+              "displayname":"Country",
+              "value":"India"
+            },
+            "from_when":{
+              "displayname":"From When",
+              "value":"08/07/2010"
+            },
+            "to_when":{
+              "displayname":"To When",
+              "value":"08/10/2012"
+            },
+            "activity":{
+              "displayname":"Activity",
+              "value":"Work"
+            }
+          }
+      },
+      "Education":{
+          "summary":{
+            "education_summary":{
+              "displayname":"Education Summary",
+              "value":"Text"
+            }
+          },
+          "qualification":[{
+            "level":{
+              "displayname":"Level",
+              "value":"UG"
+            },
+            "stream":{
+                "displayname":"Stream",
+                "value":"Engineering"
+            },
+            "qualificationname":{
+                "displayname":"Qualification Name",
+                "value":"B.Tech"
+            },
+            "qualificationdate":{
+              "displayname":"Qualification Date",
+              "value":"27/04/2012"
+            },
+            "fromwhere":{
+              "displayname":"From Where",
+              "value":"Anna University - chennai"
+            }
+          },
+          {
+            "level":{
+              "displayname":"Level",
+              "value":"PG"
+            },
+            "stream":{
+                "displayname":"Stream",
+                "value":"Engineering"
+            },
+            "qualificationname":{
+                "displayname":"Qualification Name",
+                "value":"M.Tech"
+            },
+            "qualificationdate":{
+              "displayname":"Qualification Date",
+              "value":"27/04/2014"
+            },
+            "fromwhere":{
+              "displayname":"From Where",
+              "value":"Anna University - chennai"
+            }
+          }
+        ],
+        "institution":{
+            "name":{
+              "displayname":"Institution Name",
+              "value":"Mepco Schelenk Engineering College"
+            },
+            "Type":{
+              "displayname":"Type",
+              "value":"UG"
+            },
+            "from_when":{
+              "displayname":"From When",
+              "value":"27/4/2010"
+            },
+            "to_where":{
+                "displayname":"to where",
+                "value":"03/08/2014"
+            },
+            "special_achievements":{
+              "displayname":"Special Achievements",
+              "value":"Outgoing student ...."
+            },
+            "group_memberships":{
+              "displayname":"Group Memberships",
+              "value":"Android Club ...."
+            },
+            "batch_of":{
+              "displayname":"Batch Of",
+              "value":"2012"
+            },
+            "results_achieved":{
+              "displayname":"Results Achieved",
+              "value":"Rank holder ....."
+            }
+        }
+      },
+      "Accomplishments and interests":{
+        "Activities" :{
+            "Type":{
+              "displayName" : "Type of activity",
+              "value" : ["co-curricular","volunteering"]
+            },
+            "Participation" : {
+              "displayName" : "Participation",
+              "value" : "Dancing"
+            },
+            "fromWhen" : {
+              "displayName" : "Starting date",
+              "value" : "20/10/2015"
+            },
+            "toWhen" : {
+              "displayName" : "ending date",
+              "value" : "20/11/2015"
+            },
+            "where" : {
+              "displayName" : "Place",
+              "value" : "Mumbai"
+            },
+            "organiznation" : {
+              "displayName" : "Organiznation",
+              "value" : "Reach-Out"
+            },
+            "summary" : {
+              "displayName" : "Brief information",
+              "value" : "Volunterred for educationg students in slums"
+            }
+        },
+        "Hobbies" : {
+              "displayName" : "Hobbies or Interests",
+              "value" : ["Poetry" , "Designing" , "Dancing"]
+        },
+        "Publications" : {
+            "Type":{
+              "displayName" : "Type of Publication",
+              "value" : "Journal"
+            },
+            "URL":{
+              "displayName" : "Url of publication",
+              "value" : "https://en.wikipedia.org/wiki/Journal"
+            },
+            "when":{
+              "displayName" : "ending date",
+              "value" : "02/11/2015"
+            },
+            "summary" : {
+              "displayName" : "Brief information",
+              "value" : "Journal on fundamentals of mathematics"
+            }
+        },
+        "conference_participation" : {
+            "conference_name":{
+              "displayName" : "Attended Conference",
+              "value" : "Big Data"
+            },
+            "location" : {
+              "displayName" : "place",
+              "value" : "Hyderabad"
+            },
+            "when":{
+              "displayName" : "date",
+              "value" : "02/08/2015"
+            },
+            "Type":{
+              "displayName" : "technical",
+              "value" : "Big Data"
+            },
+            "Topic":{
+                "displayName" : "Topic of the conference",
+                "value" : "Big data analysis"
+            }
+        }
+    }
+
+  }]
+}
